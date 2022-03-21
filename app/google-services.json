@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063600813407",
+    "project_id": "factcheck-3636d",
+    "storage_bucket": "factcheck-3636d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063600813407:android:c9deb9bf823ef626a8b2ea",
+        "android_client_info": {
+          "package_name": "com.example.factcheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063600813407-6gipic01fa9dnhqijcscdna7inj8vvi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMpulTDnvB7eqlApDXhR-oXMJkzl8g0To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063600813407-6gipic01fa9dnhqijcscdna7inj8vvi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
